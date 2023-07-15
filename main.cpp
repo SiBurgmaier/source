@@ -72,6 +72,7 @@ int main(int argc, char* argv[]) {
     }
 
     cout << "Programm beendet" << endl;
+    cout << "\n\n\nSomething changed\n\n\n" << endl;
 
     return 0;
 }
